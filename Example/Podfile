@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OOKit_Tests' do
+  pod 'OOKit', :path => '../'
+  
+  
+end
